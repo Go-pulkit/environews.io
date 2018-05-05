@@ -1,2 +1,3 @@
 # footballsite-design.io
-A first attempt to create an english football related website's design....Contributions  suggestions are welcome!
+A first attempt to create an english football related website's design using HTML & CSS (initially)....
+Contributions and suggestions are welcome!
