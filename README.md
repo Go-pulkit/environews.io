@@ -1,3 +1,2 @@
-# footballsite-design.io
-A first attempt to create an english football related website's design using HTML & CSS (initially)....
+Website for  environment club of DU. 
 Contributions and suggestions are welcome!
